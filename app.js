@@ -26,6 +26,7 @@
             } else {
                 $scope.message = "Please enter data first";
             }
+            $scope.list = null;
         };
 
                 }]);
